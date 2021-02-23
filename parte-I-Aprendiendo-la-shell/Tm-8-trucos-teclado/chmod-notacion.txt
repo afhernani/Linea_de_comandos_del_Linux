@@ -1,0 +1,13 @@
+Significado de la notación
+
+u+x     Agregar permiso de ejecución para el propietario.
+
+u-x     Elimina el permiso de ejecución del propietario.
+
++x      Agregar permiso de ejecución para el propietario, el grupo y el mundo. Esto es equivalente a a + x.
+
+o-rw    Elimina los permisos de lectura y escritura de cualquier persona que no sea el propietario y el propietario del grupo.
+
+go=rw   Establece que el propietario del grupo y cualquier persona además del propietario tengan permisos de lectura y escritura. Si el propietario del grupo o el mundo anteriormente tenían permiso de ejecución, se elimina.
+
+u+x,go=rx   Agregue permiso de ejecución para el propietario y establezca los permisos para que el grupo y otros lean y ejecuten. Varias especificaciones pueden estar separadas por comas.

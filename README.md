@@ -1,7 +1,19 @@
+# <p style="text-align:center;color:red">THE LINUX COMMAND LINE<br /><span style="color:green">LA LÍNEA DE COMANDOS DEL LINUX</span></p>
 
-![robot](robot.png)
+_______
 
-# PART I: LEARNING THE SHELL
+<p align="center">
+  <img width="460" height="300" src="robot.png">
+</p>
+
+<!-- ![robot](robot.png) -->
+_____
+
+# <p style="text-align:center;color:red">Index<br /><span style="color:green">Indice</span></p>
+
+______
+
+# <p style="text-align:center;color:red">PART I: LEARNING THE SHELL<br /><span style="color:green">Parte I: Aprendiendo la shell</span></p>
 
 ## [1 What Is the Shell?](parte-I-Aprendiendo-la-shell/01-what-is-the-shell.md)
 
@@ -23,7 +35,9 @@
 
 ## [10 Processes.](parte-I-Aprendiendo-la-shell/010-processes.md)
 
-# PART II: CONFIGURATION AND THE ENVIRONMENT
+______
+
+# <p style="text-align:center;color:red">PART II: CONFIGURATION AND THE ENVIRONMENT<br /><span style="color:green">Parte II: Configuración y el Entorno</span></p>
 
 ## [11 The Environment](parte-II-El-entorno/011-enviromentVariables.md)
 
@@ -31,7 +45,9 @@
 
 ## [13 Customizing the Prompt ](parte-II-El-entorno/013-personalizar-el-entorno.md)
 
-# PART III: COMMON TASKS AND ESSENTIAL TOOLS
+______
+
+# <p style="text-align:center;color:red">PART III: COMMON TASKS AND ESSENTIAL TOOLS<br /><span style="color:green">Parte III: Tareas Comunes y herramientas esenciales</span></p>
 
 ## [14 Package Management](Parte-III-tareas-comunes-herramientas-esenciales/014-package.md)
 
@@ -53,7 +69,9 @@
 
 ## [23 Compiling Programs ](Parte-III-tareas-comunes-herramientas-esenciales/23-Compiler.md)
 
-# PART IV: WRITING SHELL SCRIPTS
+________
+
+# <p style="text-align:center;color:red">PART IV: WRITING SHELL SCRIPTS<br /><span style="color:green">Parte IV: Escribiendo Giones de Ventana</span></p>
 
 ## [24 Writing Your First Script ](parte-IV-Escribiendo-Scripts-de-Ventanas/24-Es-Tu-1-script.md)
 
